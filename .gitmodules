@@ -1,0 +1,3 @@
+[submodule "spotify-in-discord"]
+	path = spotify-in-discord
+	url = https://github.com/dperolio/spotify-in-discord
