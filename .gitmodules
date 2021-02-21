@@ -4,3 +4,9 @@
 [submodule "status-everywhere"]
 	path = status-everywhere
 	url = https://github.com/dperolio/status-everywhere
+[submodule "plugins/status-everywhere"]
+	path = plugins/status-everywhere
+	url = https://github.com/dperolio/status-everywhere
+[submodule "plugins/spotify-in-discord"]
+	path = plugins/spotify-in-discord
+	url = https://github.com/dperolio/spotify-in-discord
