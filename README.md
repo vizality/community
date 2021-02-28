@@ -1,2 +1,3 @@
-# community
-Home of Vizality's verified plugins and themes.
+# Community
+
+A list of all of Vizality's community-created plugins and themes.
