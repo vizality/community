@@ -22,6 +22,6 @@ A GitHub public repository link to the addon. *The addon must be public and host
 ----
 
 - [ ] I have checked to make sure a similar addon does not already exist for Vizality
-- [ ] I have checked to made sure this addon complies with Vizality's [guidelines](https://github.com/vizality-community/guidelines)
+- [ ] I have checked to made sure this addon complies with Vizality's [guidelines](https://github.com/vizality/community/blob/main/GUIDELINES.md)
 - [ ] I am confirming that I am the original creator of this addon or I have permission to post this addon
-- [ ] I agree to transfer ownership of this repo to @vizality-bot upon approval in order for it to be listed on @vizality-community
+- [ ] I agree to transfer ownership of this repo to @vizality-bot upon approval in order for it to be listed on [vizality/community](https://github.com/vizality/community)
