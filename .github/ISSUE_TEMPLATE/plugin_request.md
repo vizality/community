@@ -19,4 +19,4 @@ Add any other context, screenshots, mockups, or info about the plugin here.
 ----
 
 - [ ] I have checked to make sure a similar request has not already been proposed
-- [ ] I have checked to made sure this request complies with Vizality's [guidelines](https://github.com/vizality-community/guidelines)
+- [ ] I have checked to made sure this request complies with Vizality's [guidelines](https://github.com/vizality/community/blob/main/GUIDELINES.md)
