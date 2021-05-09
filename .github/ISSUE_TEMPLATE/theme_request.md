@@ -2,7 +2,7 @@
 name: Theme Request
 about: Request a new theme
 title: '[Short description of the theme]' 
-labels: theme, pending review
+labels: suggestion, theme, pending review
 assignees: ''
 
 ---

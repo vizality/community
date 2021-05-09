@@ -1,6 +1,6 @@
 ---
 name: Application Request
-about: Request to have your plugin or theme added to Vizality's community organization, as well as our website and in-app selection.
+about: Request to have your plugin or theme added to Vizality's addons list, as well as our website and in-app selection.
 title: '[Name of the plugin or theme]' 
 labels: application, pending review
 assignees: ''
